@@ -4,3 +4,8 @@ Kena Install
 2. visual studio community - IDE (editor)
 3. GitBash - Setup Github
 4. Composer - Artisan dan Node.js
+
+Clone Projek dari Github
+1- Go to root folder
+2- run code :
+	git clone https://github.com/othersyntax/latihangithub.git
