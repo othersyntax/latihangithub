@@ -1,0 +1,6 @@
+Kena Install
+
+1. xampp - Server
+2. visual studio community - IDE (editor)
+3. GitBash - Setup Github
+4. Composer - Artisan dan Node.js
